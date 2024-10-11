@@ -6,7 +6,7 @@ Este es un proyecto de cotizador de criptomonedas que permite consultar los prec
 
 ## Tecnologías utilizadas
 
-- React: Biblioteca para la construcción de la interfaz de usuario.
+- React y TypeScript: Biblioteca para la construcción de la interfaz de usuario.
 - Zod: Utilizado para la validación de datos del API de criptomonedas.
 - Zustand: Utilizado para la gestión del estado global de la aplicación.
 - CSS: Para el diseño y el estilo responsivo.
