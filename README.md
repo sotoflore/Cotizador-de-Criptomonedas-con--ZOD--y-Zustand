@@ -19,7 +19,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/cotizador-criptomonedas.git
+    git clone https://github.com/sotoflore/Cotizador-de-Criptomonedas-con-ZOD-y-Zustand.git
     ```
 2. Entra en el directorio del proyecto:
     ```bash
