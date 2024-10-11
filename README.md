@@ -12,6 +12,7 @@ Este es un proyecto de cotizador de criptomonedas que permite consultar los prec
 - CSS: Para el diseño y el estilo responsivo.
 - Axios
 - API de Cryptocompare
+- Vite.js
 
 ## Instalación
 
