@@ -2,17 +2,17 @@
 
 ![web app](https://github.com/sotoflore/Cotizador-de-Criptomonedas-con-ZOD-y-Zustand/blob/main/public/web-app.png)
 
-Este es un proyecto de cotizador de criptomonedas que permite consultar los precios actuales de diferentes criptomonedas en tiempo real. El proyecto está construido utilizando [Zod](https://github.com/colinhacks/zod) para la validación de datos y [Zustand](https://zustand-demo.pmnd.rs/) para la gestión del estado global.
+Este es un proyecto de cotizador de criptomonedas que permite consultar los precios actuales de diferentes criptomonedas en tiempo real. El proyecto está construido utilizando [Zod](https://github.com/colinhacks/zod) para la validación de datos y [Zustand](https://zustand-demo.pmnd.rs/) para la gestión del estado global y la API de [Cryptocompare](https://min-api.cryptocompare.com/)
 
 ## Tecnologías utilizadas
 
-- React y TypeScript: Biblioteca para la construcción de la interfaz de usuario.
-- Zod: Utilizado para la validación de datos del API de criptomonedas.
-- Zustand: Utilizado para la gestión del estado global de la aplicación.
-- CSS: Para el diseño y el estilo responsivo.
-- Axios
-- API de Cryptocompare
-- Vite.js
+- **React** y **TypeScript**: Biblioteca para la construcción de la interfaz de usuario.
+- **Zod**: Utilizado para la validación de datos del API de criptomonedas.
+- **Zustand**: Utilizado para la gestión del estado global de la aplicación.
+- **CSS**: Para el diseño y el estilo responsivo.
+- **Axios**
+- **API de Cryptocompare**
+- **Vite.js**
 
 ## Instalación
 
